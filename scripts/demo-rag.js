@@ -14,7 +14,7 @@ async function runRAGDemo() {
         console.log("MongoDB connected successfully!");
 
         // Ask a sample question
-        const question = "What programmes are available at PSG Tech?";
+        const question = "who is the founder of PSG Tech?";
 
         console.log("\n==================================");
         console.log("       PSG NEXUS - RAG DEMO");
